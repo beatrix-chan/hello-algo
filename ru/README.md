@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hello-algo.com/ru/">
-    <img src="https://www.hello-algo.com/index.assets/hello_algo_header.png" width="450"></a>
+    <img src="/ru/docs/index.assets/hello_algo_header.png" width="450"></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://www.hello-algo.com/index.assets/animation.gif" width="395">
-  <img src="https://www.hello-algo.com/index.assets/running_code.gif" width="395">
+  <img src="/ru/docs/index.assets/animation.gif" width="395">
+  <img src="/ru/docs/index.assets/running_code.gif" width="395">
 </p>
 
 <p align="center">

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hello-algo.com/">
-    <img src="/docs/index.assets/hello_algo_header.png" width="450"></a>
+    <img src="/zh-hant/docs/index.assets/hello_algo_header.png" width="450"></a>
 </p>
 
 <p align="center">
@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="https://www.hello-algo.com/zh-hant/">
-    <img src="/docs/index.assets/btn_read_online_dark.svg" height="45"></a>
+    <img src="/zh-hant/docs/index.assets/btn_read_online_dark.svg" height="45"></a>
   <a href="https://github.com/krahets/hello-algo/releases">
-    <img src="/docs/index.assets/btn_download_pdf_epub_dark.svg" height="45"></a>
+    <img src="/zh-hant/docs/index.assets/btn_download_pdf_epub_dark.svg" height="45"></a>
 </p>
 
 <p align="center">
-  <img src="/docs/index.assets/animation.gif" width="395">
-  <img src="/docs/index.assets/running_code.gif" width="395">
+  <img src="/zh-hant/docs/index.assets/animation.gif" width="395">
+  <img src="/zh-hant/docs/index.assets/running_code.gif" width="395">
 </p>
 
 <p align="center">

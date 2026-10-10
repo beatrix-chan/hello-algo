@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hello-algo.com/ru/">
-    <img src="/ru/docs/index.assets/hello_algo_header.png" width="450"></a>
+    <img src="/docs/index.assets/hello_algo_header.png" width="450"></a>
 </p>
 
 <p align="center">
